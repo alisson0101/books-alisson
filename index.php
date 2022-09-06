@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="css/layout.css">
     <script src="js/updateMark.js" defer></script>
-    <script src="js/book.js" defer></script>
+    <script src="js/books.js" defer></script>
 </head>
 <body>
     <header class="p-relative">
